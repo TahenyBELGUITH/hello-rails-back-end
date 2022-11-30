@@ -13,9 +13,7 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[hello-rails-back-end\] ](#-hello-rails-back-end-)
-  - [🛠 Built With Ruby](#-built-with-ruby)
-  - [🛠 Built With React](#-built-with-react)
-  - [🚀 Live Link ](#-live-link-)
+  - [� Live Link ](#-live-link-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -35,10 +33,6 @@
 # 📖 [hello-rails-back-end] <a name="about-project"></a>
 
 **[hello-rails-back-end]** is a React front-end with a Rails back-end and connect them to display a random greeting message.
-
-
-## 🛠 Built With <a name="built-with">Ruby</a>
-## 🛠 Built With <a name="built-with">React</a>
 
 
 <details>
