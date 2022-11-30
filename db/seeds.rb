@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Greeting.create(message: 'Hello Touha!')
 Greeting.create(message: 'Hello Abel!')
 Greeting.create(message: 'Hello Said!')

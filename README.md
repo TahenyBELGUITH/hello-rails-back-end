@@ -1,24 +1,60 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails Back End
 
-Things you may want to cover:
+ Create a React front-end with a Rails back-end and connect them to display a random greeting message.
 
-* Ruby version
+## Made With
 
-* System dependencies
+- Ruby on Rails
 
-* Configuration
+## Link to React App
+[link]()
 
-* Database creation
+## Getting Started
 
-* Database initialization
+### Setup
 
-* How to run the test suite
+To setup the project locally: clone the repository using:
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+git clone https://github.com/TahenyBELGUITH/hello-rails-back-end.git
+```
 
-* Deployment instructions
+### Install dependencies
+run:
+```
+bundle install
+```
 
-* ...
+### Setup database
+run:
+```
+rails db:setup
+rails db:migrate
+rails db:seed
+```
+
+### Run the app
+run:
+```
+rails s
+```
+
+## Authors
+
+👤 **Taheny BELGUITH**
+
+- GitHub: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
+- Twitter: [@BelguithTaheny](https://twitter.com/BelguithTaheny)
+- LinkedIn: [belguith-taheny](https://www.linkedin.com/in/belguith-taheny/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
