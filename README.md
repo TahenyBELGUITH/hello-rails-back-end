@@ -65,7 +65,7 @@
 
 ## 🚀 Live Link <a name="live-demo"></a>
 
-[link](https://github.com/TahenyBELGUITH/hello-rails-front-end)
+[link](https://github.com/TahenyBELGUITH/hello-react-front-end/tree/greeating)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
