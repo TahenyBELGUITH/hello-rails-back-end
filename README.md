@@ -22,7 +22,6 @@
     - [Install dependencies](#install-dependencies)
     - [Setup database](#setup-database)
     - [Run the app](#run-the-app)
-  - [Authors](#authors)
   - [🤝 Contributing](#-contributing)
   - [Show your support](#show-your-support)
   - [👥 Authors ](#-authors-)
@@ -107,8 +106,6 @@ run:
 ```
 rails s
 ```
-
-## Authors
 
 
 ## 🤝 Contributing
